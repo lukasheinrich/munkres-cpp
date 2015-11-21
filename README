@@ -1,0 +1,4 @@
+C++ implementation of Munkres algorithm adapted from
+http://csclab.murraystate.edu/bob.pilgrim/445/munkres.html
+
+originally written for b-tagging calibration (2012)
